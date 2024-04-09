@@ -146,7 +146,7 @@ class LSUNClass(VisionDataset):
 
 class LSUN(VisionDataset):
     """
-    `LSUN <https://www.yf.io/p/lsun>`_ dataset.
+    `LSUN <https://heibox.uni-heidelberg.de/f/f179d4f21ebc4d43bbfe/?dl=1>`_ dataset.
 
     Args:
         root (string): Root directory for the database files.
